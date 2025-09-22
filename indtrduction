@@ -1,0 +1,17 @@
+Content¶
+Introduction
+Load packages
+Read the data
+Check the data
+Glimpse the data
+Check missing data
+Check data unbalance
+Data exploration
+Predictive models
+RandomForrestClassifier
+AdaBoostClassifier
+CatBoostClassifier
+XGBoost
+LightGBM
+Conclusions
+References
